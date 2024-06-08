@@ -1,3 +1,5 @@
+// firstly needed on terminal ->> npm i express
+
 const express = require('express')
 const app = express() // app is a notation we can use aryan, prince, etc.jjhj
 
